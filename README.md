@@ -102,4 +102,4 @@ service/my-app-service   LoadBalancer   10.100.160.195   10.100.160.195   80:300
 EXTERNAL-IP와 nodePort를 결합하여 접속을 하였습니다.
 ![image](https://github.com/user-attachments/assets/7750d662-e6ae-4eef-8960-aa92b595d22b)
 
-작업이 성공되었습니다.
+작업이 성공되었습니다.🔥
